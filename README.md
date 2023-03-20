@@ -1,2 +1,0 @@
-# Front_end_knowledge_outline
-前端面试复习大纲笔记
