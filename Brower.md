@@ -2,7 +2,7 @@
 
 | 文章链接                                                     | 文章分类 | 更新状态 |
 | ------------------------------------------------------------ | -------- | -------- |
-| [01HTML大纲思维导图](https://github.com/xzhuling/Front_end_knowledge_outline/blob/main/HTML/01HTML%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E6%80%BB%E8%A7%88.md) | 大纲     | 待完善 ✍️ |
+| [01网络和浏览器大纲思维导图](https://github.com/xzhuling/Front_end_knowledge_outline/blob/main/Debug/01%E5%BC%80%E5%8F%91%E5%92%8C%E8%B0%83%E8%AF%95.md) | 大纲     | 待完善 ✍️ |
 |                                                              |          |          |
 |                                                              |          |          |
 
