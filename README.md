@@ -20,11 +20,16 @@
 
 每一个分类的第一篇都是思维导图大纲可以总览相关分类的知识点，思维导图里面大部分是我之前看过的文章，一部分是我看完之后的总结。
 
-![image-20230414095948998](https://cdn.jsdelivr.net/gh/xzhuling/DrawingBed/img/image-20230414095948998.png)
+![image-20230414095948998](/Users/yaya/Library/Application Support/typora-user-images/image-20230414095948998.png)
 
 ## 如何贡献
 
 
+
+## 贡献者
+
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
 
 ## 关于我
 
