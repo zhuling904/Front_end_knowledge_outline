@@ -42,7 +42,7 @@
         <a href="https://github.com/zhuling822">
             <img src="https://avatars.githubusercontent.com/u/108726265?v=4" width="100;" alt="zhuling822"/>
             <br />
-            <sub><b>zhuling822</b></sub>
+            <sub><b>Zhuling822</b></sub>
         </a>
     </td></tr>
 </table>
