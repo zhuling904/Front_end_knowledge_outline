@@ -20,7 +20,7 @@
 
 每一个分类的第一篇都是思维导图大纲可以总览相关分类的知识点，思维导图里面大部分是我之前看过的文章，一部分是我看完之后的总结。
 
-<img src="https://cdn.jsdelivr.net/gh/xzhuling/DrawingBed/img/image-20230414103451824.png" alt="image-20230414103451824" style="zoom:50%;" />
+![01JS思维导图总览 (1)](https://cdn.jsdelivr.net/gh/xzhuling/DrawingBed/img/01JS%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E6%80%BB%E8%A7%88%20(1).png)
 
 ## 如何贡献
 
