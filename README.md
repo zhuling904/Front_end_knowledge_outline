@@ -32,10 +32,10 @@
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/xzhuling">
-            <img src="https://avatars.githubusercontent.com/u/122870379?v=4" width="100;" alt="xzhuling"/>
+        <a href="https://github.com/HushanCode">
+            <img src="https://avatars.githubusercontent.com/u/122870379?v=4" width="100;" alt="HushanCode"/>
             <br />
-            <sub><b>Zhuling</b></sub>
+            <sub><b>HushanCode</b></sub>
         </a>
     </td>
     <td align="center">
