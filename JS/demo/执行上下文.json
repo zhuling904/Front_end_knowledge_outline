@@ -1,0 +1,8 @@
+ExecutionContext = {
+  // this绑定
+  ThisBinding = <this value>,
+  // 词法环境
+  LexicalEnvironment = { ... },
+  // 变量环境
+  VariableEnvironment = { ... },
+}
