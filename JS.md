@@ -2,9 +2,9 @@
 | 文章链接                                                     | 更新状态 |
 | ------------------------------------------------------------ | -------- |
 | [01Js思维导图大纲](https://github.com/xzhuling/Front_end_knowledge_outline/blob/main/JS/01Js%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E6%80%BB%E8%A7%88.md) | ✍️ 待完善 |
-| [02ECMAScript 基本语法](./JS/02ECMAScript基本语法.md)        | ⏱未开始  |
-| [03DOM](./JS/03DOM.md)                                       | ⏱未开始  |
-| [04BOM](./JS/04BOM.md)                                       | ⏱未开始  |
+| [02ECMAScript 基本语法](./JS/02ECMAScript基本语法.md)        | ✌️已完结  |
+| [03DOM](./JS/03DOM.md)                                       | ✌️已完结  |
+| [04BOM](./JS/04BOM.md)                                       | ✌️已完结  |
 | [05作用域、执行上下文、原型链、垃圾回收机制](./JS/05作用域、执行上下文、原型链、垃圾回收机制.md) | ⏱未开始  |
 | [06let、const、var变量提升](./JS/06let、const、var变量提升.md) | ⏱未开始  |
 | [07事件流模型](./JS/07事件流模型.md)                         | ⏱未开始  |
