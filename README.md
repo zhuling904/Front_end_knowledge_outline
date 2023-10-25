@@ -25,7 +25,7 @@
         <a href="https://github.com/zhuling904">
             <img src="https://avatars.githubusercontent.com/u/122870379?v=4" width="100;" alt="zhuling904"/>
             <br />
-            <sub><b>zhuling904</b></sub>
+            <sub><b>Zhuling904</b></sub>
         </a>
     </td>
     <td align="center">
